@@ -29,4 +29,4 @@ If you use this code in your research, please cite:
    ./test_MLOFO.sh
    ```
 
-  Before running the code, you should modify the dataset path. The pretrained model for CUB can be download from [https://pan.baidu.com/s/1oTgI2QiH8j5VdCRasg07Wg](code：2022).
+  Before running the code, you should modify the dataset path. The pretrained model for CUB can be download from [BaiduCloud](https://pan.baidu.com/s/1oTgI2QiH8j5VdCRasg07Wg)(code：2022).
